@@ -128,7 +128,7 @@ Type `os_cpu_used_ratio` into the data box, and a graph of your applications CPU
 
 You can create more complex queries and apply filters according to any kubernetes value. For example, the following will show all of the HTTP request durations for your specific application:
 
-* `http_request_duration_microseconds{kubernetes_name="kiturasafeserver-service"}`
+* `http_request_duration_microseconds{kubernetes_name="kiturasafeserver-application-service"}`
 
 ## Next Steps
 
