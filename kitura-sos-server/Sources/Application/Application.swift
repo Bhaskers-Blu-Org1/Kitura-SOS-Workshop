@@ -6,7 +6,7 @@ import CloudEnvironment
 import KituraContracts
 import Health
 import KituraOpenAPI
-import Kitura-WebSocket
+import KituraWebSocket
 
 public let projectPath = ConfigurationManager.BasePath.project.path
 public let health = Health()
