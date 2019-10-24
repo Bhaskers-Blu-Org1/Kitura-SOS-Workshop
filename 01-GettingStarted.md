@@ -80,7 +80,7 @@ You also may need to turn off code signing on your Xcode. To do this:
 ### Setting up the iOS client
 
 1. Open Terminal.
-2. Navigate to the `kitura-safe-ios-client` directory.
+2. Navigate to the `kitura-sos-ios` directory.
 3. Type `ls` - if you see `Podfile` in the resulting output, then you are in the right place.
 4. Enter `pod install` into Terminal.
 5. Enter `xed .` into Terminal.
