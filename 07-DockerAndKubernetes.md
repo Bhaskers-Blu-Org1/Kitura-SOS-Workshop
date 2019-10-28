@@ -160,7 +160,7 @@ We can now open a browser, and go to [localhost:8080/openapi/ui](localhost:8080/
 
 Congratulations! We have learnt about Docker, Helm and Kubernetes and deployed our own releases to the local cluster.
 
-Set up [Monitoring in Kubernetes using Prometheus and Grafana](./08-PrometheusAndGrafana).
+Set up [Monitoring in Kubernetes using Prometheus and Grafana](./08-PrometheusAndGrafana.md).
 
 ### Cleaning up
 
